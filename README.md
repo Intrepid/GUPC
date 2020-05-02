@@ -1,9 +1,9 @@
 # GNU Unified Parallel C (GNU UPC)
 The GNU UPC toolset provides a compilation and execution environment for programs written in the UPC (Unified Parallel C) language. The GNU UPC compiler extends the capabilities of the GNU GCC compiler.
 
-==Features
-.UPC Language Specification version 1.3 compliant
-.Based on GNU GCC
+##Features
+* UPC Language Specification version 1.3 compliant
+* Based on GNU GCC
 GPL licensed
 Fast bit packed pointer-to-shared support
 Configurable pointer-to-shared representation
