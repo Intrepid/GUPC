@@ -22,14 +22,10 @@ The GNU UPC toolset provides a compilation and execution environment for program
 ## Supported Platforms
 At this time, GNU UPC is available on the following platforms:
 
-* Intel x86_64
-** Linux 64 bit uniprocessor or multiprocessor systems (RHEL, SUSE, Fedora, CentOS, Ubuntu)
-* Intel x86_64
-** Apple Mac OS X system
-* Intel x86
-** Linux 32 bit systems (Redhat based distributions)
-* IBM PowerPC
-** IBM Power6/Power7 Linux based systems (including PERCS)
+* Intel x86_64, Linux 64 bit uniprocessor or multiprocessor systems (RHEL, SUSE, Fedora, CentOS, Ubuntu)
+* Intel x86_64, Apple Mac OS X system
+* Intel x86, Linux 32 bit systems (Redhat based distributions)
+* IBM PowerPC, IBM Power6/Power7 Linux based systems (including PERCS)
 
 If you would like to learn of future ports to other platforms, or would like to discuss the feasibility of implementing GNU UPC on a platform of interest to you, we recommend that you join the GNU UPC discussion list.
 
