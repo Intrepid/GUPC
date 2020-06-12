@@ -32,6 +32,9 @@ If you would like to learn of future ports to other platforms, or would like to 
 ## Downloads
 See the project "release" tab for the latest [source release](https://github.com/Intrepid/GUPC/releases).
 
+## Berkeley UPCR Runtime Integration
+The GUPC compiler can be used to compile UPC programs which are linked the GASNet based UPC runtime (called UPCR) developed by Berkeley (LBNL). The GUPC and Berkeley (UPCR) runtime combination is available on all platforms supported by GUPC. Use of the UPCR runtime increases the range of communication methods that can be used to implement UPC re- mote access and synchronization primitives. More information on the Berkeley UPCR project site at: the UPCR web site http://upc.lbl.gov/.
+
 ## License
 GNU UPC is implemented as an extension to the GNU C Compiler (GCC) and is distributed under the terms of the GNU General Public License.
 
