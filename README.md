@@ -30,7 +30,7 @@ At this time, GNU UPC is available on the following platforms:
 If you would like to learn of future ports to other platforms, or would like to discuss the feasibility of implementing GNU UPC on a platform of interest to you, we recommend that you join the GNU UPC discussion list.
 
 ## Downloads
-See the project "release" tab for the latest [source release](/Intrepid/GUPC/releases).
+See the project "release" tab for the latest [source release](https://github.com/Intrepid/GUPC/releases).
 
 ## License
 GNU UPC is implemented as an extension to the GNU C Compiler (GCC) and is distributed under the terms of the GNU General Public License.
